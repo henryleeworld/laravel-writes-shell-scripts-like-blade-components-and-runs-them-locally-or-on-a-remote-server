@@ -1,4 +1,4 @@
-# Laravel 10 編寫指令列腳本宛如 Blade 模板元件，並可在本地或遠端伺服器上執行
+# Laravel 11 編寫指令列腳本宛如 Blade 模板元件，並可在本地或遠端伺服器上執行
 
 引入 protonemedia 的 laravel-task-runner 套件來擴增編寫指令列腳本宛如 Blade 模板元件，並可在本地或遠端伺服器上執行，指令列腳本是和電腦溝通及管理檔案與作業系統最有效率的方式，透過幾行程式，電腦就會乖乖依照你的意思辦事，腳本還可以用在許多重要任務上。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/5CmRVt6.png)
+![](https://i.imgur.com/S38UUp2.png)
 > 用是否成功確認執行結果
